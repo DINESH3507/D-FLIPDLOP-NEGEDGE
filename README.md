@@ -67,4 +67,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the truth table for D-FLIPFLOP in Quartus II using Verilog programming are studied, verified and executed successfully.
